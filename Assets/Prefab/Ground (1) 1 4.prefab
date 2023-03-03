@@ -455,7 +455,7 @@ PrefabInstance:
     - target: {fileID: 9096780341556480402, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: scaleHorizontalX
-      value: 1.7
+      value: 2.47
       objectReference: {fileID: 0}
     - target: {fileID: 9096780341556480402, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
@@ -475,7 +475,7 @@ PrefabInstance:
     - target: {fileID: 9096780341556480413, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.21
+      value: 5.4
       objectReference: {fileID: 0}
     - target: {fileID: 9096780341556480413, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
@@ -550,7 +550,7 @@ PrefabInstance:
     - target: {fileID: 9096780343055475848, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.7
+      value: 2.47
       objectReference: {fileID: 0}
     - target: {fileID: 9096780343055475851, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
@@ -725,7 +725,7 @@ PrefabInstance:
     - target: {fileID: 9096780341556480402, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: scaleHorizontalX
-      value: 2.61
+      value: 1.77
       objectReference: {fileID: 0}
     - target: {fileID: 9096780341556480402, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
@@ -745,7 +745,7 @@ PrefabInstance:
     - target: {fileID: 9096780341556480413, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.74
+      value: -7.75
       objectReference: {fileID: 0}
     - target: {fileID: 9096780341556480413, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
@@ -820,7 +820,7 @@ PrefabInstance:
     - target: {fileID: 9096780343055475848, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.61
+      value: 1.77
       objectReference: {fileID: 0}
     - target: {fileID: 9096780343055475848, guid: 211f16a85ed421049aa50fb40dad5577,
         type: 3}
